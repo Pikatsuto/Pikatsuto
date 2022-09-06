@@ -23,18 +23,6 @@ I also do a lot of open source because I like to share my project, thinking that
 with the aim of continuing my studies to become a computer scientist.
 
 ## My skills:
-### development:
-> #### mastery:
-> - HTML
-> - CSS
-> - Python
-
-> #### Base:
-> - Bash
-
-> #### Notion:
-> - Java Script
-
 ### System Administrator:
 > #### mastery:
 > - Bash
@@ -53,3 +41,15 @@ with the aim of continuing my studies to become a computer scientist.
 > - VFIO / GPU Passthrough
 > - LXC in CLI
 > - Ansible
+
+### development:
+> #### mastery:
+> - HTML
+> - CSS
+> - Python
+
+> #### Base:
+> - Bash
+
+> #### Notion:
+> - Java Script

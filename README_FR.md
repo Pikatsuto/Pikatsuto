@@ -23,18 +23,6 @@ en me disant qu'il pourrait servir ou même être amélioré.
 dans le but de poursuivre mes études pour devenir devons
 
 ## Mes compétences:
-### développement:
-> #### maitrise:
-> - HTML
-> - CSS
-> - Python
-
-> #### Base:
-> - Bash
-
-> #### Notion:
-> - Java Script
-
 ### Administarteur System:
 > #### maitrise:
 > - Bash
@@ -53,3 +41,15 @@ dans le but de poursuivre mes études pour devenir devons
 > - VFIO / GPU Passthrough
 > - LXC en CLI
 > - Ansible
+
+### développement:
+> #### maitrise:
+> - HTML
+> - CSS
+> - Python
+
+> #### Base:
+> - Bash
+
+> #### Notion:
+> - Java Script
