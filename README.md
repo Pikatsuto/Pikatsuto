@@ -1,12 +1,12 @@
 <img src="Baner-Gabriel-Guillou.png" width="100%"/>
 
+[README_FR 🇫🇷](README_FR.md)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikatsuto&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikatsuto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UMS-CD&repo=UMS-CD-Installer)](https://github.com/anuraghazra/github-readme-stats)
-
-[README_FR 🇫🇷](README_FR.md)
 
 ## Who am I:
 > hello Gabriel Guillou, 16 years old. I'm a computer geek
