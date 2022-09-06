@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UMS-CD&repo=UMS-CD-Installer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who am I:
-> hello Gabriel Guillou, 16 years old. I'm a computer geek
+> Hello Gabriel Guillou, 16 years old. I am a passionate of computer science
 in the broadest sense. Whether it is to install servers or to develop 
 or to develop programs, I'm always ready to help.
 > 
