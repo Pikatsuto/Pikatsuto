@@ -1,27 +1,53 @@
-<img src="pikatsuto_no_bg_name.png" data-canonical-src="pikatsuto_no_bg_name.png" width="100%"/>
+<img src="Baner-Gabriel-Guillou.png" width="100%"/>
 
-## Who I am:
-Hello to you.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pikatsuto&show_icons=true&theme=tokyonight)
 
-I am Pikatsuto, I live in France, Python developer for 3 years and in the process of learning the web. I'm a strong supporter of Open Source because I want to give the possibility to everyone to be able to take over but project to adapt them to their needs. I consider that a program must be made by the community for the community because I think that it allows to go much further in the creation and sharing
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pikatsuto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## My study:
-### school:
-I have just passed my BTEC National Diploma with distinction and I am going to move on to BTEC HND SIO with SLAM option
+[README_FR 🇫🇷](README_FR.md)
 
-### Mastery:
-I am backend developer in python.
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Basis Python
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) Mastery Python
+## Who am I:
+> hello Gabriel Guillou, 16 years old. I'm a computer geek
+in the broadest sense. Whether it is to install servers or to develop 
+or to develop programs, I'm always ready to help.
+> 
+> I also do a lot of Open Source because I like to share my project
+I also do a lot of open source because I like to share my project, thinking that it could be used or even improved.
+> 
+> I also volunteer from time to time in digital associations.
 
+## My studies:
+> I am currently a student at the insti Ru informatique apply in BTS SIO
+with the aim of continuing my studies to become a computer scientist.
 
-### Learning:
-I am currently learning the web to become a fullstack developer:
+## My skills:
+### development:
+> #### mastery:
+> - HTML
+> CSS
+> Python
 
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Basis HTML
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Mastery HTML
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Basis CSS
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/30) Mastery CSS
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) Basis PHP
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10) Base JS
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0) Basis VueJS
+#### Base:
+> - Bash
+
+> #### Notion:
+> - Java Script
+
+### System Administrator:
+> #### mastery:
+> - Bash
+> - Debian
+> ArchLinux
+> - Server LAMP
+> - docker (CLI / Docker Compose / Dockerfile)
+> proxmox (VM / LXC)
+
+#### Base:
+> - Networking (Debian Service)
+> - packet creation
+> - Windows server
+
+> #### Notion:
+> - VFIO / GPU Passthrough
+> - LXC in CLI
+> - Ansible
