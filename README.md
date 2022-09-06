@@ -26,8 +26,8 @@ with the aim of continuing my studies to become a computer scientist.
 ### development:
 > #### mastery:
 > - HTML
-> CSS
-> Python
+> - CSS
+> - Python
 
 > #### Base:
 > - Bash
@@ -44,7 +44,7 @@ with the aim of continuing my studies to become a computer scientist.
 > - docker (CLI / Docker Compose / Dockerfile)
 > proxmox (VM / LXC)
 
-#### Base:
+> #### Base:
 > - Networking (Debian Service)
 > - packet creation
 > - Windows server
