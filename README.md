@@ -29,7 +29,7 @@ with the aim of continuing my studies to become a computer scientist.
 > CSS
 > Python
 
-#### Base:
+> #### Base:
 > - Bash
 
 > #### Notion:
