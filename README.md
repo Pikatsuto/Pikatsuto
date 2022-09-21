@@ -9,18 +9,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UMS-CD&repo=UMS-CD-Installer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Who am I:
-> Hello Gabriel Guillou, 16 years old. I am a passionate of computer science
-in the broadest sense. Whether it is to install servers or to develop 
-or to develop programs, I'm always ready to help.
+> Hello, Gabriel Guillou, 20 years old. I am a computer enthusiast in the broadest sense. Whether it's to install servers or to develop programs, I'm always willing to help.
 > 
-> I also do a lot of Open Source because I like to share my project
-I also do a lot of open source because I like to share my project, thinking that it could be used or even improved.
+> I also do a lot of Open Source because I like to share my projects thinking that they could be used or even improved.
 > 
 > I also volunteer from time to time in digital associations.
 
 ## My studies:
-> I am currently a student at the insti Ru informatique apply in BTS SIO
-with the aim of continuing my studies to become a computer scientist.
+> I am currently a student at the Institut d'Informatique Appliqué in BTS SIO with the aim of continuing my studies to become a devops.
 
 ## My skills:
 ### System Administrator:
