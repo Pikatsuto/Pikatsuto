@@ -40,7 +40,8 @@ Je contribue activement à l'**Open Source** car j'aime partager mes projets et 
 
 <div align="center">
 
-  💼 [LinkedIn](https://linkedin.com/in/gabriel-guillou-a56bb4237) | 📧 [Email](mailto:guillou.gabriel@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/gabriel-guillou-a56bb4237)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:guillou.gabriel@gmail.com)
 
 </div>
 
