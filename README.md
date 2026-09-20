@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Gabriel Guillou**, 23 years old, passionate about computer science in the broadest sense. Whether it's administering servers or developing applications, I'm always ready to take on new technical challenges.
+Hello, I'm **Gabriel Guillou**, 24 years old, passionate about computer science in the broadest sense. Whether it's administering servers or developing applications, I'm always ready to take on new technical challenges.
 
 I actively contribute to **Open Source** because I like to share my projects and collaborate with the community. I also volunteer in digital associations to promote technology and digital education.
 
