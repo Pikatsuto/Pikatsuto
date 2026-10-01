@@ -1,42 +1,52 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pikatsuto/Pikatsuto/refs/heads/main/Baner-Gabriel-Guillou.png" alt="Gabriel Guillou" width="100%"/>
+</p>
+
 <div align="center">
 
   ### 🌍 [Lire en Français](README_FR.md)
 
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white)](https://linkedin.com/in/gabriel-guillou-a56bb4237)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guillou.gabriel@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:contact@gabriel-guillou.fr)
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello, I'm **Gabriel Guillou**, 24 years old, passionate about computer science in the broadest sense. Whether it's administering servers or developing applications, I'm always ready to take on new technical challenges.
+I'm **Gabriel Guillou**, a Linux systems administrator focused on virtualisation, operations and automation.
 
-I actively contribute to **Open Source** because I like to share my projects and collaborate with the community. I also volunteer in digital associations to promote technology and digital education.
+I build and maintain **[DaemonCores](https://github.com/DaemonCores)**, a solo project that brings the bootc/OSTree immutable model to Debian: signed OCI system images, Debian packages, Secure Boot, and a CI that boot-tests every image before publishing it.
 
-## 🎯 Certifications & Degrees
+## 💼 Experience
 
-- _2025_ - **General Computer Science Bachelor's Degree** - Development Option (BTS Consolidation)
-- _2024_ - **BTS SIO** - SLAM Option (Business-oriented Programming)
-- _2022_ - **BAC Pro Digital Systems** - Option C (Networks and Telecommunications)
+- _2026_ - **Operations Analyst** - Terrena (contract): monitoring of 100+ machines, job scheduling, file-transfer rules, incident handling
+- _2025 - 2026_ - **Systems Administrator** (volunteer) - Wilink-Info: Proxmox server setup, automated deployments, monitoring
+- _2024 - 2025_ - **ERP Developer** (work-study) - Hutchinson: AS/400 to Linux migration, internal tooling, Linux automation
 
-**Goal**: To take on a new professional challenge and reach a **DevOps Engineer** position
+## 🎯 Degrees
+
+- _2025_ - **General Computer Science Bachelor's Degree**
+- _2024_ - **BTS SIO** - SLAM option (software development)
+- _2022_ - **Vocational Baccalaureate in Digital Systems** - Networks and telecommunications option
 
 ## 🚀 Featured Projects
 
-- **[UniDash](https://github.com/UniDash-Environement/UniDash)** - Unified dashboard for managing and using development and production environments
-- **[Raspberry Builds](https://github.com/Pikatsuto/raspberry-builds)** - Simplified and automated Raspberry Pi system image building in CI/CD
+- **[debian-bootc](https://github.com/DaemonCores/debian-bootc)** - Debian 13 as a bootc/OSTree image: bootc stack packaged for Debian, BLS GRUB signed for Secure Boot, online/offline installer ISOs
+- **[DaemonCores-VE](https://github.com/DaemonCores/DaemonCores-VE)** - Proxmox VE as a transactional image, with a Proxmox storage plugin running OCI images as immutable LXC containers and a Docker Compose to Podman/Quadlet converter
+- **[DaemonCores-CI](https://github.com/DaemonCores/DaemonCores-CI)** - Reusable GitHub Actions pipeline: amd64/arm64 builds, signed APT repositories, QEMU/KVM boot tests before publication
+- **[DaemonCores-Phone](https://github.com/DaemonCores/DaemonCores-Phone)** - R&D: Debian/bootc base for smartphones and device descriptor schema
 
-## 💼 Technical Skills
+## 🛠️ Technical Skills
 
-| Level     | Development  | System Administration |
-| --------- | -------------- | ---------------------- |
-| **Mastery** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CSS3](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **Basics**    | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Learning** |                | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| Level | System Administration | Development |
+| ----- | --------------------- | ----------- |
+| **Mastery** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![QEMU/KVM](https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=flat-square&logo=qemu&logoColor=white) ![LXC](https://img.shields.io/badge/LXC-333333?style=flat-square&logo=linuxcontainers&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white) ![bootc/OSTree](https://img.shields.io/badge/bootc%2FOSTree-294172?style=flat-square) ![ZFS](https://img.shields.io/badge/ZFS-2A667F?style=flat-square&logo=openzfs&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Centreon](https://img.shields.io/badge/Centreon-10069F?style=flat-square) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt&logoColor=white) |
+| **Basics** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square) ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) | ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Learning** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | |
 
 ---
 
 <div align="center">
-  <i>Open to internship opportunities and Open Source projects</i>
+  <i>Looking for a Linux systems administrator / DevOps position - open to Open Source collaboration</i>
 </div>
